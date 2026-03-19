@@ -10,7 +10,7 @@ This repository is designed to be launched using **Binder**, allowing you to run
 
 Click the badge below to open the project instantly:
 
-## [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YOUR-USERNAME/my-first-binder/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jasonnstanley/my-first-binder/HEAD)
 
 ---
 
